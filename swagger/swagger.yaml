@@ -22,10 +22,10 @@ schemes:
 - "https"
 - "http"
 paths:
-  /user:
+  /test:
     get:
       tags:
-        - user
+        - test
       summary : 서버 테스트
       description : 서버 테스트
       responses:
